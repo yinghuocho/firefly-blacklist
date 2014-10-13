@@ -1,0 +1,4 @@
+firefly-blacklist
+=================
+
+GFW blacklist
