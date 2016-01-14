@@ -1,4 +1,4 @@
-# 2015-02-04 by yinghuocho@gmail.com
+# 2016-01-13 by yinghuocho@gmail.com
 # collected from autoproxy-gfwlist and other sources
 
 google.com
@@ -7060,3 +7060,8 @@ zxc22.idv.tw
 zz8080.com
 一頁.com
 ほしの島のにゃんこ.com
+ggpht.com
+twimg.com
+chinagate.com
+dw.com
+dwnews.net
