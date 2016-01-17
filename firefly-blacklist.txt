@@ -1,4 +1,4 @@
-# 2016-01-13 by yinghuocho@gmail.com
+# 2016-01-16 by yinghuocho@gmail.com
 # collected from autoproxy-gfwlist and other sources
 
 google.com
@@ -7065,3 +7065,4 @@ twimg.com
 chinagate.com
 dw.com
 dwnews.net
+s3.amazonaws.com
